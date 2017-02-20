@@ -1,0 +1,1 @@
+Exercises available at https://github.com/allentv/PythonWorkshops
